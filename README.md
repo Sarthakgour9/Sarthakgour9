@@ -1,49 +1,38 @@
-<!-- ============================================= -->
-<!--           MATRIX AI HEADER                    -->
-<!-- ============================================= -->
+<!-- ===================================== -->
+<!--        MATRIX AI HEADER               -->
+<!-- ===================================== -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0f2027,100:00ff9f&text=Sarthak%20Gour&fontSize=55&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Innovator&descAlignY=55"/>
 </p>
 
----
+<!-- floating AI avatar -->
 
-<!-- ============================================= -->
-<!--              MATRIX ANIMATION                 -->
-<!-- ============================================= -->
+<img align="right" width="220" src="https://cdn3d.iconscout.com/3d/premium/thumb/ai-developer-5690749-4745025.png"/>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Hello+World+%F0%9F%91%8B;I'm+Sarthak+Gour;AI+Engineer;Full+Stack+Developer;Building+AI+Powered+Systems;Welcome+to+my+GitHub"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Hello+World;I'm+Sarthak+Gour;AI+Engineer;Full+Stack+Developer;Building+AI+Powered+Systems"/>
 
 </p>
 
 ---
 
-# 👨‍💻 AI Developer Avatar
+# 👨‍💻 About Me
 
-<p align="center">
+🚀 Passionate about building **AI powered systems and scalable applications**
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350">
-
-</p>
-
----
-
-# 🧠 About Me
-
-🚀 Passionate about building **AI-driven applications and scalable systems**
-
-- 🎓 Final Year **B.Tech CSE (AI/ML)**
-- 🤖 Interested in **Artificial Intelligence & Automation**
-- 🧠 Currently exploring **Machine Learning + Cloud Systems**
-- 💻 Love building **Full Stack Applications**
-- 🎯 Goal → Become **AI Engineer / Software Developer**
-
-⚡ Fun fact:  
-I enjoy transforming **complex ideas into powerful software products**
+- 🎓 Final Year **B.Tech Computer Science (AI/ML)**
+- 🤖 Interested in **Artificial Intelligence**
+- ⚙️ Love building **Full Stack Platforms**
+- 🌐 Exploring **Cloud Infrastructure**
+- 🚀 Working on **AI powered productivity tools**
 
 ---
+
+<!-- second floating avatar -->
+
+<img align="left" width="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-laptop-5690746-4745022.png"/>
 
 # ⚡ Tech Stack
 
@@ -71,7 +60,7 @@ I enjoy transforming **complex ideas into powerful software products**
 
 </p>
 
-### DevOps & Tools
+### DevOps
 
 <p>
 
@@ -99,7 +88,11 @@ I enjoy transforming **complex ideas into powerful software products**
 
 ---
 
-# 📈 GitHub Contribution Activity
+<!-- floating avatar again -->
+
+<img align="right" width="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/ai-robot-working-on-computer-5690751-4745027.png"/>
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -123,9 +116,9 @@ I enjoy transforming **complex ideas into powerful software products**
 
 | Project | Description | Tech |
 |------|-------------|------|
-| **InsightAI** | AI powered task intelligence engine | Next.js, AI |
-| **Nex Video Meet** | Zoom-like video conferencing system | Next.js |
-| **Granny Tales** | AI storytelling generator | Python |
+| InsightAI | AI powered task intelligence engine | Next.js, AI |
+| Nex | Video conferencing platform | Next.js |
+| Granny Tales | AI storytelling generator | Python |
 
 ---
 
