@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a2a6c,50:b21f1f,100:fdbb2d&text=[YOUR_NAME]&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Innovator&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a2a6c,50:b21f1f,100:fdbb2d&text=Sarthak Gour&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Innovator&descAlignY=60"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+[YOUR_NAME];AI+Engineer;Full+Stack+Developer;Building+AI+Powered+Products;Turning+Ideas+Into+Reality+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sarthak Gour;AI+Engineer;Full+Stack+Developer;Building+AI+Powered+Products;Turning+Ideas+Into+Reality+🚀"/>
 </p>
 
 ---
