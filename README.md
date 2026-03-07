@@ -1,16 +1,26 @@
 <!-- ============================= -->
-<!--         HERO SECTION          -->
+<!--         AI HEADER             -->
 <!-- ============================= -->
 
-<h1 align="center">Hi 👋, I'm [YOUR_NAME]</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=[YOUR_NAME]&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Innovator&descAlignY=55"/>
+</p>
+
+---
+
+<!-- ============================= -->
+<!--        TYPING INTRO           -->
+<!-- ============================= -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+[YOUR_NAME];AI%2FML+Engineer+%7C+Full+Stack+Developer;I+Build+Innovative+Solutions;Open+Source+Contributor;Turning+Ideas+into+Reality+🚀" 
-      alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+[YOUR_NAME];AI%2FML+Engineer;Full+Stack+Developer;Building+AI+Driven+Products;Turning+Ideas+Into+Reality+🚀"/>
 </p>
+
+---
+
+<!-- ============================= -->
+<!--       3D DEV ANIMATION        -->
+<!-- ============================= -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -18,59 +28,47 @@
 
 ---
 
-<!-- ============================= -->
-<!--          ABOUT ME             -->
-<!-- ============================= -->
+# 🚀 About Me
 
-## 🚀 About Me
-
-- 🎓 Final year **B.Tech Computer Science (AI/ML)** student  
-- 🧠 Currently learning **Advanced Machine Learning & Cloud Engineering**
-- 🛠 Building **AI-powered apps, full stack platforms & automation tools**
-- 🚀 Exploring **AI + DevOps + Scalable Systems**
-- 🎯 Goal: Work as a **Software Engineer / AI Engineer**
-- ⚡ Fun fact: I love turning **crazy ideas into real products**
+- 🎓 Final Year **B.Tech CSE (AI/ML)** Student  
+- 🤖 Passionate about **Artificial Intelligence & Full Stack Development**  
+- 🔭 Currently working on **AI powered productivity tools**  
+- 🧠 Learning **Advanced Machine Learning + Cloud Engineering**  
+- 💡 Interested in **Startups, Innovation & Automation**  
+- ⚡ Fun fact: I love building **crazy tech ideas into real apps**
 
 ---
 
-<!-- ============================= -->
-<!--        TECH STACK             -->
-<!-- ============================= -->
+# 🧰 Tech Stack
 
-## 🧰 Tech Stack & Arsenal
-
-### 🎨 Frontend
+### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,flask"/>
 </p>
 
-### 🗄 Databases
+### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### AI / Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 </p>
 
-### 🧠 AI / Data Science
+### DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel"/>
 </p>
 
 ---
 
-<!-- ============================= -->
-<!--        GITHUB STATS           -->
-<!-- ============================= -->
-
-## 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -83,38 +81,25 @@
 
 ---
 
-<!-- ============================= -->
-<!--        FEATURED PROJECTS      -->
-<!-- ============================= -->
+# 📈 Contribution Activity Graph
 
-## 🌟 Featured Projects
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌟 Featured Projects
 
 | Project | Description | Tech | Links |
-|-------|-------------|------|------|
-| **[PROJECT_NAME_1]** | Short description of the project and the problem it solves | React, Node, MongoDB | [Repo](https://github.com/[USERNAME]/[REPO]) \| [Live](https://[LIVE_LINK]) |
-| **[PROJECT_NAME_2]** | Short description of the project and its impact | Python, AI, Flask | [Repo](https://github.com/[USERNAME]/[REPO]) \| [Live](https://[LIVE_LINK]) |
-| **[PROJECT_NAME_3]** | Short description of the project | Next.js, PostgreSQL | [Repo](https://github.com/[USERNAME]/[REPO]) \| [Live](https://[LIVE_LINK]) |
+|------|-------------|------|------|
+| **Project 1** | AI-powered task intelligence system | Next.js, AI, PostgreSQL | [Repo](https://github.com/[USERNAME]/repo) |
+| **Project 2** | Video conferencing app like Zoom | Next.js, Stream, Tailwind | [Repo](https://github.com/[USERNAME]/repo) |
+| **Project 3** | AI storytelling generator | Python, Flask, NLP | [Repo](https://github.com/[USERNAME]/repo) |
 
 ---
 
-<!-- ============================= -->
-<!--      CURRENT PROJECTS         -->
-<!-- ============================= -->
-
-## 🧠 Currently Working On
-
-- 🚀 Building **AI-powered productivity tools**
-- 🧩 Developing **InsightAI Task Intelligence Engine**
-- 🌐 Creating **Scalable Full Stack Applications**
-- 🔐 Learning **Cybersecurity & Ethical Hacking**
-
----
-
-<!-- ============================= -->
-<!--         CONNECT WITH ME       -->
-<!-- ============================= -->
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -130,26 +115,30 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
 </a>
 
-<a href="mailto:[EMAIL]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
 </p>
 
 ---
 
-<!-- ============================= -->
-<!--       3D STYLE FOOTER         -->
-<!-- ============================= -->
+# 🐍 Contribution Snake Animation
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg"/>
 </p>
 
+---
+
+# 👀 Profile Views
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=blue&style=flat"/>
 </p>
+
+---
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
