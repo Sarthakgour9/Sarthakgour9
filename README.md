@@ -1,91 +1,109 @@
-<!-- ================================================= -->
-<!--                AI CYBER HEADER                    -->
-<!-- ================================================= -->
+<!-- ============================================= -->
+<!--           MATRIX AI HEADER                    -->
+<!-- ============================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a2a6c,50:b21f1f,100:fdbb2d&text=Sarthak Gour&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Innovator&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0f2027,100:00ff9f&text=Sarthak%20Gour&fontSize=55&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Innovator&descAlignY=55"/>
 </p>
 
 ---
 
-<!-- ================================================= -->
-<!--                3D CHARACTER                       -->
-<!-- ================================================= -->
+<!-- ============================================= -->
+<!--              MATRIX ANIMATION                 -->
+<!-- ============================================= -->
 
 <p align="center">
 
-<img width="450" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/master/icons/dev.png"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Hello+World+%F0%9F%91%8B;I'm+Sarthak+Gour;AI+Engineer;Full+Stack+Developer;Building+AI+Powered+Systems;Welcome+to+my+GitHub"/>
 
 </p>
 
+---
+
+# 👨‍💻 AI Developer Avatar
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sarthak Gour;AI+Engineer;Full+Stack+Developer;Building+AI+Powered+Products;Turning+Ideas+Into+Reality+🚀"/>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350">
+
 </p>
 
 ---
 
 # 🧠 About Me
 
-✨ Passionate developer building **AI powered systems**
+🚀 Passionate about building **AI-driven applications and scalable systems**
 
-- 🎓 Final year **B.Tech CSE (AI/ML)**
-- 🚀 Currently building **AI Task Intelligence Engine**
-- 🤖 Interested in **AI + Automation + Scalable Systems**
-- 🧩 Creating **full stack products**
-- 🎯 Goal → Work as **AI Engineer / Software Developer**
+- 🎓 Final Year **B.Tech CSE (AI/ML)**
+- 🤖 Interested in **Artificial Intelligence & Automation**
+- 🧠 Currently exploring **Machine Learning + Cloud Systems**
+- 💻 Love building **Full Stack Applications**
+- 🎯 Goal → Become **AI Engineer / Software Developer**
 
-⚡ Fun Fact:  
-I love transforming **crazy startup ideas into working products**
+⚡ Fun fact:  
+I enjoy transforming **complex ideas into powerful software products**
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
-### 🎨 Frontend
+### Frontend
+
 <p>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind"/>
+
 </p>
 
-### ⚙ Backend
+### Backend
+
 <p>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,flask"/>
+
 </p>
 
-### 🧠 AI / ML
+### AI / ML
+
 <p>
+
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
 </p>
 
-### ☁ DevOps
+### DevOps & Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github"/>
-</p>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=[USERNAME]&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME]&theme=tokyo-night"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarthakgour9&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakgour9&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sarthakgour9&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakgour9&theme=tokyo-night"/>
 
 </p>
 
@@ -95,7 +113,7 @@ I love transforming **crazy startup ideas into working products**
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sarthakgour9&theme=tokyonight&no-frame=true&row=1"/>
 
 </p>
 
@@ -105,8 +123,8 @@ I love transforming **crazy startup ideas into working products**
 
 | Project | Description | Tech |
 |------|-------------|------|
-| **InsightAI** | AI powered task intelligence system | Next.js, AI |
-| **Nex Video Meet** | Video conferencing platform | Next.js |
+| **InsightAI** | AI powered task intelligence engine | Next.js, AI |
+| **Nex Video Meet** | Zoom-like video conferencing system | Next.js |
 | **Granny Tales** | AI storytelling generator | Python |
 
 ---
@@ -115,16 +133,16 @@ I love transforming **crazy startup ideas into working products**
 
 <p align="center">
 
-<a href="[LINKEDIN]">
+<a href="https://linkedin.com">
+
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
-<a href="[PORTFOLIO]">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me"/>
-</a>
+<a href="mailto:sarthak@email.com">
 
-<a href="[EMAIL]">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+
 </a>
 
 </p>
@@ -135,7 +153,7 @@ I love transforming **crazy startup ideas into working products**
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sarthakgour9/sarthakgour9/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -145,7 +163,7 @@ I love transforming **crazy startup ideas into working products**
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=[USERNAME]&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sarthakgour9&label=Profile%20Views&color=00ff9f&style=flat"/>
 
 </p>
 
@@ -153,6 +171,6 @@ I love transforming **crazy startup ideas into working products**
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:fdbb2d,50:b21f1f,100:1a2a6c&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff9f,50:0f2027,100:000000&section=footer"/>
 
 </p>
