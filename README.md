@@ -8,7 +8,7 @@
 
 <!-- floating AI avatar -->
 
-<img align="right" width="220" src="https://cdn3d.iconscout.com/3d/premium/thumb/ai-developer-5690749-4745025.png"/>
+<img align="right" width="220" src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/assets/programmer.gif">
 
 <p align="center">
 
@@ -34,43 +34,15 @@
 
 <img align="left" width="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-laptop-5690746-4745022.png"/>
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-### Frontend
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,nodejs,express,python,java,mysql,postgres,docker,aws,git,github,vercel"/>
 
 </p>
 
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,flask"/>
-
-</p>
-
-### AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-</p>
-
-### DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -86,31 +58,25 @@
 
 </p>
 
----
-
 <!-- floating avatar again -->
 
 <img align="right" width="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/ai-robot-working-on-computer-5690751-4745027.png"/>
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakgour9&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakgour9&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
----
-
-# 🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=sarthakgour9&theme=tokyonight&no-frame=true&row=1"/>
 
 </p>
-
----
 
 # 🌟 Featured Projects
 
@@ -147,7 +113,6 @@
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/sarthakgour9/sarthakgour9/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
