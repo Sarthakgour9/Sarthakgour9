@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Future+With+AI"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakgour9&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
