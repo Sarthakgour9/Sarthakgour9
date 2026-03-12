@@ -43,7 +43,7 @@
 </p>
 
 <!-- floating avatar -->
-<img align="right" width="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/ai-robot-working-on-computer-5690751-4745027.png"/>
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 📈 Contribution Graph
 
