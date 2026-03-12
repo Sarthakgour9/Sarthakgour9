@@ -1,17 +1,22 @@
-<!-- AI SYSTEM BOOT HEADER -->
+<!-- FUTURISTIC GRID HEADER -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1500&pause=700&color=00FF9F&center=true&vCenter=true&width=900&lines=Booting+Sarthak+Gour.exe...;Loading+AI+Modules...;Machine+Learning+Engineer;Full+Stack+Developer;Building+Next+Gen+AI+Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141E30,50:243B55,100:00ff9f&text=Sarthak%20Gour&fontSize=60&fontColor=00ff9f&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Innovator&descAlignY=55"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9f&height=250&section=header&text=Sarthak%20Gour&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&pause=900&color=00ff9f&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Future+With+AI"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+
+</p>
 # 👨‍💻 About Me
 
 🚀 Passionate about building **AI powered systems and scalable applications**
