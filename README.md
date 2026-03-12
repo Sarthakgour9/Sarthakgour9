@@ -43,7 +43,7 @@
 </p>
 
 <!-- floating avatar -->
-<img align="right" width="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="220" src="./coder.gif"/>
 ## 📈 Contribution Graph
 
 <p align="center">
