@@ -41,7 +41,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sarthakgour9&theme=tokyonight&hide_border=true"/>
 </p>
-<img align="right" width="220" src="./coder.gif"/>
+
+<div><img align="right" width="220" src="./coder.gif"/></div>
 <!-- floating avatar -->
 
 ## 📈 Contribution Graph
