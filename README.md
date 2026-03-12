@@ -1,22 +1,20 @@
-<!-- ===================================== -->
-<!--        MATRIX AI HEADER               -->
-<!-- ===================================== -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0f2027,100:00ff9f&text=Sarthak%20Gour&fontSize=55&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Innovator&descAlignY=55"/>
-</p>
-
-<!-- floating AI avatar -->
-
-<img align="right" width="220" src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/assets/programmer.gif">
+<!-- CYBERPUNK AI HEADER -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Hello+World;I'm+Sarthak+Gour;AI+Engineer;Full+Stack+Developer;Building+AI+Powered+Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,100:004e92&text=Sarthak%20Gour&fontSize=60&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning&descAlignY=55"/>
 
 </p>
 
----
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Initializing+AI+System...;Hello+World;I'm+Sarthak+Gour;Building+AI+Powered+Systems;Full+Stack+Developer;Machine+Learning+Engineer"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
+</p>
 
 # 👨‍💻 About Me
 
