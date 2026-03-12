@@ -1,19 +1,15 @@
-<!-- CYBERPUNK AI HEADER -->
+<!-- AI SYSTEM BOOT HEADER -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,100:004e92&text=Sarthak%20Gour&fontSize=60&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning&descAlignY=55"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1500&pause=700&color=00FF9F&center=true&vCenter=true&width=900&lines=Booting+Sarthak+Gour.exe...;Loading+AI+Modules...;Machine+Learning+Engineer;Full+Stack+Developer;Building+Next+Gen+AI+Systems"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Initializing+AI+System...;Hello+World;I'm+Sarthak+Gour;Building+AI+Powered+Systems;Full+Stack+Developer;Machine+Learning+Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9f&height=250&section=header&text=Sarthak%20Gour&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
 </p>
 
 # 👨‍💻 About Me
