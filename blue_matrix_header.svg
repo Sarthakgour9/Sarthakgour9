@@ -1484,7 +1484,7 @@
   font-size="14.5"
   text-anchor="middle"
   letter-spacing="3"
-  opacity="0.95">AI Engineer  ◈  Full Stack Dev  ◈  ML Engineer<animate attributeName="opacity" values="0.8;1;0.85;1;0.8" dur="4s" repeatCount="indefinite"/>
+  opacity="0.95">Mern Stack Dev  ◈  Full Stack Dev  ◈  ML Engineer<animate attributeName="opacity" values="0.8;1;0.85;1;0.8" dur="4s" repeatCount="indefinite"/>
 </text>
 <text x="450" y="220"
   fill="#004d7a"
