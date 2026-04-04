@@ -64,7 +64,7 @@
 | 🌐 | Developed full-stack video conferencing platform — Nex | 2024 |
 | 📖 | Created AI Storytelling Generator — Granny Tales | 2024 |
 | ☁️ | Deployed production apps on AWS & Vercel | 2024 |
-| 🎓 | Pursuing B.Tech in CS with AI/ML specialization | 2023–25 |
+| 🎓 | Pursuing B.Tech in CS with AI/ML specialization | 2021–25 |
 
 </p>
 
