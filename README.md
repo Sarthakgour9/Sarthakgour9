@@ -77,7 +77,8 @@
 | **InsightAI** | AI powered task intelligence engine | Next.js, AI |
 | **Nex** | Video conferencing platform | Next.js |
 | **Granny Tales** | AI storytelling generator | Python |
-| **Hireloop** | AI recruitment platform | Next.js
+| **Hireloop** | AI recruitment platform | Next.js |
+| **Saleswired** | Sales-CRM Model | Next.js, AI |
 
 ---
 
