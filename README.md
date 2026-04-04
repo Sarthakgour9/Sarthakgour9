@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-🚀 Passionate about building **AI powered systems and scalable application**
+🚀 Passionate about building **AI powered systems and scalable applications**
 
 - 🎓 Final Year **B.Tech Computer Science (AI/ML)**
 - 🤖 Interested in **Artificial Intelligence**
