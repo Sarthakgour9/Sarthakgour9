@@ -10,7 +10,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About Me 
 
 🚀 Passionate about building **AI powered systems and scalable applications**
 
