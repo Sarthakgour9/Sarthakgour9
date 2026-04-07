@@ -70,7 +70,7 @@
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Featured Projects  
 
 | Project | Description | Tech | 
 |---------|-------------|------|
@@ -108,7 +108,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarthakgour9&label=Profile%20Views&color=00bfff&style=flat"/>
 </p>
-
+ 
 ---
 
 <!-- BLUE MATRIX FOOTER -->
