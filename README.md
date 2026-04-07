@@ -25,7 +25,7 @@
 <!-- floating avatar -->
 <img align="left" width="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-laptop-5690746-4745022.png"/>
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,nodejs,express,python,java,mysql,postgres,docker,aws,git,github,vercel"/>
