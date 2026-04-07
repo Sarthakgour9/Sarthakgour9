@@ -72,7 +72,7 @@
 
 # 🌟 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech | 
 |---------|-------------|------|
 | **InsightAI** | AI powered task intelligence engine | Next.js, AI |
 | **Nex** | Video conferencing platform | Next.js |
