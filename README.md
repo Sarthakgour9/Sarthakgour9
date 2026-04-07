@@ -1,5 +1,5 @@
 <!-- BLUE MATRIX HEADER — upload blue_matrix_header.svg to your profile repo root -->
-<p align="center"> 
+<p align="center">
   <img src="./blue_matrix_header.svg" width="900" alt="Sarthak Gour"/>
 </p>
 
