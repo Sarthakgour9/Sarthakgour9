@@ -17,7 +17,7 @@
 - 🎓 Final Year **B.Tech Computer Science (AI/ML)**
 - 🤖 Interested in **Artificial Intelligence**
 - ⚙️ Love building **Full Stack Platforms**
-- 🌐 Exploring **Cloud Infrastructure**
+- 🌐 Exploring **Cloud Infrastructure** 
 - 🚀 Working on **AI powered productivity tools**
 
 ---
